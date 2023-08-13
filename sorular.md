@@ -20,7 +20,7 @@ Eğer aradığın soruların cevapları GitHub docs'ta yoksa, Google'lama beceri
 
 5. Bir Branchten diğerine geçmek için kullandığın KOMUT nedir? Mesela `isim-soyisim` branch'inde çalıştığını hayal et ve main branch'ine geçmek istiyorsun, ne yaparsın? git checkout
 
-6. `git fetch` (yerel depomu uzaktaki deponun içeriğine güncelle), `git merge`(başka bir branch'deki değişiklikleri üzerinde çalıştığınız kendi branch'inize entegre etme işlemidir) ve `git pull` (uzak depodaki değişiklikleri almak ve bunları mevcut çalışma dizini ile birleştirmek için kullanılır) arasındaki farklıarı açıklayınız. Bu konutlar ne yapar açıklayınız..
+6. `git fetch` (yerel depomu uzaktaki deponun içeriğine güncelle), `git merge`(başka bir branch'deki değişiklikleri üzerinde çalıştığınız kendi branch'inize entegre etme işlemidir) ve `git pull` (uzak depodaki değişiklikleri almak ve bunları mevcut çalışma dizini ile birleştirmek için kullanılır) arasındaki farklıarı açıklayınız. Bu konutlar ne yapar açıklayınız.
 
 7. Merge conflict nedir? iki kişi aynı dosyayı ve aynı satırı değiştirirse ve git otomatik olarak merge edemezse bu durumda conflict yani çakışma olacaktır. 
 
